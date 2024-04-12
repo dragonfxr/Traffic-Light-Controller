@@ -35,3 +35,11 @@ The project involves programming a traffic light controller to manage the flow o
 
 ### 3. Red Light Camera:
 ![image](https://github.com/dragonfxr/trafficLightController/assets/112178497/8fd71ef9-7b1b-4063-8e0f-7406cbc350b3)
+
+
+# Contact Me
+If you have more advice on the project or you want to give a new engineer like me some hints, please contact me.
+
+Email:russell.feng.au@gmail.com
+
+I'm always open to feedback and collaboration. Looking forward to hearing and learning from you!
